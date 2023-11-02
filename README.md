@@ -1,2 +1,2 @@
-# Browser
-A browser that will be used to train my abilities in C++
+# Calculator
+A simple project of a calculator to train my abilities in C++
