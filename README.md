@@ -1,4 +1,4 @@
-# Calculator
+# Algorithm Probabilistic Market
 Project made in python to try prevew the direction of the market with some Tecnical Indicators
 
 ## Goal of the Project
